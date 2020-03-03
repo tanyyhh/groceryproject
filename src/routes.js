@@ -1,6 +1,8 @@
 import PageContent from './components/PageContent.vue'
 import AddItem from './components/AddItem.vue'
 
+// Added comment line here!
+
 export default [{
         path: '/',
         component: PageContent
